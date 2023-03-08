@@ -94,7 +94,8 @@ In this phase, the data is explored and analyzed to gain insights into the data 
 
 
 **Step 2: Segmentation of target audience**
-Customer Segementation is based on the campaign 'Response' for Recency(R), Frequency(F), and Monetary value(M) of the top 2 deciles. The best 20% of customers are then divided into different groups. The segment with highest response rate is given the first priority and the lowest response rate is given the last priority.
+
+   Customer Segementation is based on the campaign 'Response' for Recency(R), Frequency(F), and Monetary value(M) of the top 2 deciles. The best 20% of customers are then divided into different groups. The segment with highest response rate is given the first priority and the lowest response rate is given the last priority.
 
 NOTE: We do not use RFM Analysis in the traditional way of setting scores and finding RFM score for each customer. Instead we use these 3 features for prioritization of target audience.
 
